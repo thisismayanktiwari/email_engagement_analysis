@@ -4,7 +4,7 @@ All the details have been clearly laid out in the jupyter notebook. Check out th
 
 **Note:** The hyperlinks in Table of Contents is note supported on GitHub. To use the notebook with hyperlinks, download and run locally.
 
-***Below** is a markdown version of the jupyter notebook to view with ease.*
+***Below is a markdown version of the jupyter notebook to view with ease.***
 
 # Email Engagement Analysis
 
